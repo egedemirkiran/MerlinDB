@@ -12,7 +12,7 @@
 
 ***
 
-> MerlinDB is a fast and easy-to-use NoSQL KV database.
+> MerlinDB is a fast and easy-to-use KV database.
 
 ## Usage
 
