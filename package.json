@@ -1,6 +1,6 @@
 {
   "name": "merlindb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MerlinDB is a fast and easy-to-use NoSQL KV database",
   "main": "index.js",
   "scripts": {
