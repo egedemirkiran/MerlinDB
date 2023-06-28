@@ -1,14 +1,14 @@
 {
   "name": "merlindb",
-  "version": "1.0.1",
-  "description": "MerlinDB is a fast and easy-to-use NoSQL KV database",
+  "version": "1.0.2",
+  "description": "MerlinDB is a fast and easy-to-use KV database",
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --fix"
   },
   "keywords": [],
   "author": "Justice39",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "better-sqlite3": "^8.4.0"
   },
