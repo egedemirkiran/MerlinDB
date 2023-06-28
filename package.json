@@ -1,0 +1,21 @@
+{
+  "name": "merlindb",
+  "version": "1.0.0",
+  "description": "MerlinDB is a fast and easy-to-use NoSQL KV database",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "keywords": [],
+  "author": "Justice39",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
